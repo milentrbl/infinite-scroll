@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/infscroll"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "infinite_scroll",
+		"liveServer.settings.port": 5501
+	}
+}
